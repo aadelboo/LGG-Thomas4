@@ -26,7 +26,7 @@ It's because that's what your system does! It only runs commands.
 
 The first step would be to learn how the terminal works.
 
-Let's analyze the first line you see.
+Let's analyze the first line you see. ok let's do it.
 
 #### Linux
 
