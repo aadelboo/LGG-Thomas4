@@ -12,7 +12,7 @@ The ultimate goal is the mindset, not specific tools. For that reason, the timel
 
 BeCode promotes a learning experience based on _projects rather than lessons_. With that in mind, the course content is divided into multiple categories of challenges, resources and other tools aiming to teach certain sets of skills.
 
-### 🌱 The Field
+### 🌱 The Field :joy:
 
 - **Terminal**: Introduction to the fundamentals of the command line interface such as navigation, file operation, permissions, package management, re-directions, environment variables, with a particular focus on versioning tools like Git.
 - **Python basics & advanced**: Introduction to the language fundamentals and then more complex (and interesting!) concepts such as functions, OOP, concurrency and best practices. The learned principles are required to work with all kinds of files that contain data.
